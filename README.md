@@ -10,7 +10,7 @@
 - 🌱 I’m learning **Web Development, Robotics, and AI Technologies**
 - 💬 Ask me about **AI, and Robotics**
 - 📫 How to reach me: [1683609586@qq.com](mailto:1683609586@qq.com)
-- 🏆 Fun fact: *"Coding is like humor. If you have to explain it, it’s bad."*
+- 🏆 Final Goal: *"Join the Glorious Evolution."*
 
 ---
 
@@ -21,7 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
 ---
 
@@ -39,7 +38,6 @@
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/xiangyuzeng)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zxy0624)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://zxy0624.github.io/)
 
