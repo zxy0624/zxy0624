@@ -20,6 +20,8 @@
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 
 ---
 
@@ -27,7 +29,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zxy0624&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zxy0624&theme=radical" />
 </p>
 
 <p align="center">
@@ -38,6 +39,7 @@
 
 ## 📬 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/xiangyuzeng)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zxy0624)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://zxy0624.github.io/)
 
