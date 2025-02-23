@@ -9,7 +9,7 @@
 - 🎯 I’m currently working on **[My Personal Website](https://github.com/zxy0624/zxy0624.github.io)**
 - 🌱 I’m learning **Web Development, Robotics, and AI Technologies**
 - 💬 Ask me about **AI, and Robotics**
-- 📫 How to reach me: [1683609586@qq.com](mailto:1683609586@qq.com)
+- 📫 How to reach me: [zengxy0624@gmail.com](mailto:zengxy0624@gmail.com)
 - 🏆 Final Goal: *"Join the Glorious Evolution."*
 
 ---
